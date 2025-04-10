@@ -1,3 +1,14 @@
-1. You are given a string. Your task is to Swap cases. In other words, convert all lowercase letters to uppercae letter and vice-versa.(Don't use any python built-in function)
+Ques-1
+You are given a string. Your task is to Swap cases. In other words, convert all lowercase letters to uppercae letter and vice-versa.(Don't use any python built-in function)
 Example: PHitRoN presents "pyTHon CourSE.
 output: phITrOn PRESENTS "PYthON cOURse.
+
+Ques-2
+Write a program to print the following number pattern using a loop.
+Input : 5
+Output : 
+1 
+1 2 
+1 2 3 
+1 2 3 4 
+1 2 3 4 5
