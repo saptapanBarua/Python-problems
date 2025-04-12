@@ -16,3 +16,12 @@ Output :
 Ques-3
 Display Fibonacci series up to 10 terms
 0  1  1  2  3  5  8  13  21  34
+
+Count all uppercase, lowercase, digits, and special symbols from a given
+"P@#yn26at^&i5ve"
+Total counts of chars, digits, and symbols 
+
+Uppercase = 1
+Lowercase = 7 
+Digits = 3 
+Symbol = 4
