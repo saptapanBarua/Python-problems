@@ -37,3 +37,8 @@ Write a program to check if one string contains another. For example, the result
 
 s1 = "Phi"
 s2 = "Phitron"
+
+Ques-7
+Write a program to check if the given number is a palindrome number.
+Input : 121
+Output : True
